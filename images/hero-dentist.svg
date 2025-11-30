@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#FEF7F0" width="800" height="600"/>
+  <rect fill="#E87D23" x="250" y="200" width="300" height="200" rx="20"/>
+  <text fill="#fff" font-family="Arial" font-size="24" font-weight="bold" text-anchor="middle" x="400" y="300">Hero Image</text>
+  <text fill="#fff" font-family="Arial" font-size="16" text-anchor="middle" x="400" y="330">Dentist Photo</text>
+</svg>
